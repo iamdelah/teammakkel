@@ -21,33 +21,33 @@
         min-height: 300px;
     }
     #full_name{
-        color:#d5600cf7;
+        color:#0c13d5f7;
     }
     .text_size{
         font-size: 60px;
     }
     #learn{
-        border: 2px solid #d5600cf7;
+        border: 2px solid #0c13d5f7;
         background-color: white;
         font-size:26px ;
-        color:#d5600cf7;
+        color:#0c13d5f7;
         min-width: 200px;
         transition: background-color 0.5s ease-in-out, color 0.5s ease-in-out;
         transition-timing-function: linear;
 
     }
     #learn:hover{
-        background-color: #d5600cf7;
+        background-color: #0c13d5f7;
         color:white;
 
     }
     #learn:focus{
-        background-color: #d5600cf7;
+        background-color: #0c13d5f7;
         color:white;
 
     }
     #second_row{
-        background-color: #d5600cf7;
+        background-color: #0c13d5f7;
         min-height:100px;
         color: white;
         display: flex;
@@ -58,7 +58,7 @@
         
     }
     #third_row{
-        background-color: #d5600cf7;
+        background-color: #0c13d5f7;
         min-height:680px;
         color: white;
         display: flex;
@@ -96,17 +96,17 @@
     }
 
     #learn2{
-        border: 2px solid #d5600cf7;
+        border: 2px solid #0c13d5f7;
         background-color: white;
         font-size:24px ;
-        color:#d5600cf7;
+        color:#0c13d5f7;
         min-width: 200px;
         transition: background-color 0.5s ease-in-out, color 0.5s ease-in-out;
         transition-timing-function: linear;
 
     }
     #learn2:hover{
-        background-color: #d5600cf7;
+        background-color: #0c13d5f7;
         color:white;
         border: 2px solid white;
 
@@ -144,20 +144,20 @@
         font-size: 18px;
     }
     .live{
-        border: 2px solid #d5600cf7;
+        border: 2px solid #0c13d5f7;
         background-color: white;
-        color:#d5600cf7;
+        color:#0c13d5f7;
         transition: background-color 0.5s ease-in-out, color 0.5s ease-in-out;
         transition-timing-function: linear;
         
     }
     .live:hover{
-        background-color: #d5600cf7;
+        background-color: #0c13d5f7;
         color:white;
 
     }
     .live:focus{
-        background-color: #d5600cf7;
+        background-color: #0c13d5f7;
         color:white;
 
     }
@@ -179,7 +179,7 @@
         font-size: 18px;
     }
     #contact{
-        background-color: #d5600cf7;
+        background-color: #0c13d5f7;
         min-height:300px;
         color: white;
         display: flex;
